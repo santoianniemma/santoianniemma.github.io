@@ -1,0 +1,154 @@
+* {
+	background-color: #eded31;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1100px;
+}
+
+nav {
+	font-size: 25px;
+	font-family: 'Patrick Hand', cursive;
+	color: #30682c;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 15px;
+}
+
+footer {
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+	color: green;
+	margin-top: 100px;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: 'Patrick Hand', cursive;
+	color: #710de2;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: 'Patrick Hand', cursive;
+	color: #710de2;
+}
+
+h3 {
+	font-family: 'Patrick Hand', cursive;
+	font-size: 20px;
+	color: green;
+}
+
+#grub2 {
+	height: 200px;
+	width: 300px;
+	border: 5px green;
+	border-radius: 50%;
+	float: left;
+}
+
+#magpie {
+	height: 200px;
+	widows: 300px;
+	border: 5px green;
+	border-radius: 50%;
+}
+
+main {
+	column-count: 2;
+	column-gap: 40px;
+}
+
+
+figcaption {
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+}
+
+#takeover {
+	height: 300px;
+	width: 200px;
+}
+
+#snail, #escargot {
+	height: 200px;
+	width: 300px;
+	border-radius: 50%;
+
+}
+
+#lena {
+	height: 300px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+#lena2 {
+	height: 200px;
+	width: 300px;
+}
+
+#milkmaid {
+	height: 200px;
+	width: 300px;
+}
+
+#fam {
+	height: 200px;
+	width: 400px;
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 15px;
+}
+
+#self {
+	height: 315px;
+	width: 275px;
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 15px;
+}
+
+#self2 {
+	height: 300px;
+	width: 225px;
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 15px;
+}
+
+#performance {
+	height: 300px;
+	width: 225px;
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 15px;
+}
+
+#review {
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 15px;
+}
+
+#snailmail {
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	float: right;
+}
+
+#nye {
+	padding: 2px;
+	border: 3px solid green;
+	background-color: #ffb6c1;
+	margin-top: 20px;
+}
