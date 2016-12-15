@@ -9,11 +9,11 @@
 
 
 body {
-	border-left: 75px solid #D0B2ED;
-    border-right: 75px solid #D0B2ED;
+	border-left: 75px solid #be55d1;
+    border-right: 75px solid #be55d1;
     padding: 30px;
-    border-top: 75px solid #D0B2ED;
-    border-bottom: 75px solid #D0B2ED;
+    border-top: 75px solid #be55d1;
+    border-bottom: 75px solid #be55d1;
 }
 
 nav {
@@ -23,6 +23,7 @@ nav {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-bottom: 15px;
+
 }
 
 footer {
